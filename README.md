@@ -1,6 +1,6 @@
-### SimpleMatrix4Java
-A Simple Matrix Lib For Java
+### A Simple Matrix Lib For Java
 
+Reference: [Jama](https://math.nist.gov/javanumerics/jama/)
 
 #### Matrix Library:
 
